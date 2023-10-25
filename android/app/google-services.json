@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918152792596",
+    "project_id": "inventario-ibp",
+    "storage_bucket": "inventario-ibp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918152792596:android:b7f84a0bd5add3e844b501",
+        "android_client_info": {
+          "package_name": "com.example.invetario_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918152792596-jb9tnbh79em2j6v575rairns3nmvt57u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprukdoOP7Y9jHH-qRQM_e8iFpTyHg5zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918152792596-jb9tnbh79em2j6v575rairns3nmvt57u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
